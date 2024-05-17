@@ -1,4 +1,4 @@
-Homework 1#
+Homework #1
 Guess the run-time output
 
 Pass over the code line by line
@@ -13,3 +13,22 @@ print('2 *3 * 4 * 5/ 10 = ')
 print (2 *3 * 4 * 5 /10)
 
 """
+
+Homework #2
+• Write a program that its output matches exactly this output
+You should write EXACTLY 4 commands
+Your output must match EXACTLY the below output
+Print ("Me")
+Print('Me')
+Print('Me")
+You will learn
+a LOT
+
+Homework 3#: Correct me
+For every line: If it is incorrect, correct it to a possible valid answer
+print(Hi)
+print()
+print "I am mostafa")
+print (3+6)
+print "Wonderful "day)
+print("Wonderful "day")
