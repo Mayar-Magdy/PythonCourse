@@ -1,0 +1,15 @@
+Homework 1#
+Guess the run-time output
+
+Pass over the code line by line
+
+Read and think what will be the output
+
+"""
+print('Practice', Makes Perfect.")
+print("Children must be taught \n how to think\n NOT\n what to think")
+print("\"\"")
+print('2 *3 * 4 * 5/ 10 = ')
+print (2 *3 * 4 * 5 /10)
+
+"""

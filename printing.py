@@ -19,3 +19,9 @@ print(5 % 2)
 # comma in printing ',' print spaces
 print("py", "cpp", 3+2)  # py cpp 5
 
+# how to print single quote '
+# use escape char \'
+print('let\'s learn')
+# use double quote outside it
+print("let's learn")
+
